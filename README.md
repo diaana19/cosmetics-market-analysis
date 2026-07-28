@@ -38,6 +38,9 @@ Note: Synthetic dataset used for portfolio purposes.
 - France leads in cruelty-free products (51.58%)
 - Italy and USA have highest product presence
 
+## Tableau Dashboard
+Download the `.twbx` file from the `tableau/` folder to open in Tableau Desktop.
+
 ## Note
 Synthetic dataset used for portfolio purposes. Focus is on demonstrating 
 technical skills: Python · SQL · Tableau
