@@ -26,7 +26,7 @@ cosmetics-market-analysis/
 │   └── processed/    ← clean dataset
 ├── notebooks/        ← Python analysis
 ├── sql/              ← SQL queries
-├── screenshots/      ← dashboard image
+├── img/      ← dashboard image
 └── README.md
 ```
 
