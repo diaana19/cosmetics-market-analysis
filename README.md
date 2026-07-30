@@ -18,6 +18,7 @@ End-to-end data analysis project on a global cosmetics and beauty products datas
 - **Git/GitHub** — version control
 
 ## Project Structure
+
 ```
 cosmetics-market-analysis/
 ├── data/
