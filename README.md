@@ -1,4 +1,4 @@
-# Cosmetics & Beauty Products — Global Market Analysis 2024
+# Analyse de données & Dashboard BI — Global Market Analysis 2024
 
 ## Overview
 End-to-end data analysis project on a global cosmetics and beauty products dataset, demonstrating a complete BI pipeline: data exploration, SQL analysis, and interactive dashboard visualization.
