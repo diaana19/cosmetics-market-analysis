@@ -1,4 +1,4 @@
-# Cosmetics & Beauty Products — Global Market Analysis 2024
+# Analyse de données & Dashboard BI — Global Market Analysis 2024
 
 ## Overview
 End-to-end data analysis project on a global cosmetics and beauty products dataset, demonstrating a complete BI pipeline: data exploration, SQL analysis, and interactive dashboard visualization.
@@ -18,13 +18,17 @@ End-to-end data analysis project on a global cosmetics and beauty products datas
 - **Git/GitHub** — version control
 
 ## Project Structure
+
+```
 cosmetics-market-analysis/
 ├── data/
-│ ├── raw/ ← original dataset
-│ └── processed/ ← clean dataset
-├── notebooks/ ← Python analysis (Jupyter)
-├── sql/ ← SQL queries
+│   ├── raw/          ← original dataset
+│   └── processed/    ← clean dataset
+├── notebooks/        ← Python analysis
+├── sql/              ← SQL queries
+├── img/      ← dashboard image
 └── README.md
+```
 
 ## Dataset
 Source: Kaggle — Top Beauty & Cosmetics Products Worldwide 2024
